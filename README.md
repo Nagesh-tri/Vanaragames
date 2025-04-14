@@ -9,10 +9,11 @@ A simple Three.js demo featuring interactive 3D objects with color-changing func
 - Responsive design
 
 ## Setup
-1. Clone the repository:
+1. Clone the repository and switch to the correct branch:
 ```bash
 git clone https://github.com/Nagesh-tri/Vanaragames.git
 cd Vanaragames
+git checkout day1-minishowcase
 ```
 
 2. Install dependencies:
